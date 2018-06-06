@@ -1,7 +1,9 @@
 # Mysql_Tutorial_Ali
-<head>MYSQL Tutorial</head>
-<title>My SQL tutorial</title>
-1) INTRODUCTION /n
+MYSQL Tutorial
+My SQL tutorial
+1) INTRODUCTION
+
+
 help;
 show database;
 select @@hostname;
